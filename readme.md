@@ -51,7 +51,7 @@ Spring Boot是由Pivotal团队提供的全新框架，其设计目的是用来�
 ### 2、导入Spring Boot的相关依赖
 
 maven的配置文件在
-
+![maven配置](https://github.com/KiroScarlet/SpringBootProject/blob/master/images/mavenSetting.png)
 ```xml
 <parent>
     <groupId>org.springframework.boot</groupId>
